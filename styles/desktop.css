@@ -19,11 +19,14 @@ header h1 a:hover {
 
 #logo a{
   font-style: none;
-  color: #ffff;
+  color: #fff;
 }
 
 #logo {
   padding: 10px;
+}
+#logo a{
+  font-style: none;
 }
 nav li a:hover {
   color: #7e8aa2;

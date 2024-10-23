@@ -18,6 +18,11 @@ footer {
   text-align: center;
 }
 
+#logo a{
+  font-style: none;
+  color: #fff;
+}
+
 header {
   background-color: #263248;
 }
