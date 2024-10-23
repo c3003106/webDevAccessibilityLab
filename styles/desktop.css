@@ -16,9 +16,13 @@ header {
 header h1 a:hover {
   text-decoration: underline;
 }
-#logo {
+
+#logo a{
   font-style: none;
   color: #ffff;
+}
+
+#logo {
   padding: 10px;
 }
 nav li a:hover {

@@ -15,9 +15,12 @@ footer {
 }
 
 #logo {
+  text-align: center;
+}
+
+#logo a{
   font-style: none;
   color: #ffff;
-  text-align: center;
 }
 
 header {
