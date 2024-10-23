@@ -15,6 +15,7 @@ footer {
 }
 
 #logo {
+  font-style: none;
   color: #ffff;
   text-align: center;
 }
